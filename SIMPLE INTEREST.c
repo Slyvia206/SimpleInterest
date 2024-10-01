@@ -1,3 +1,6 @@
+/* SLYVIA NJERI MURIITHI
+   CT102/G/22110/24
+	*/
 #include<stdio.h>
 int main (){
 	float Pr, T, R, SI
